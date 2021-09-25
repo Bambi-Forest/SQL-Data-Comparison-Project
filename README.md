@@ -18,3 +18,6 @@ Your job, should you choose to accept it, is to create an 'app' totally within S
 3. Uses a Hash to match and identify the differences found. 
 4. Uses a 'stored procedure' to run the entire application (Components can be modular, but the SPROC should be able to call any module if necessary) 
 5. If you can do it, the final product should be fully automated, and a 'black box' (Meaning I shouldn't have to see the code for it to work) 
+
+
+<img width="822" alt="SQL Data Comparison Project" src="https://user-images.githubusercontent.com/80550483/134788632-e36e6336-9567-452e-9dcd-fb947f8ef203.PNG">
