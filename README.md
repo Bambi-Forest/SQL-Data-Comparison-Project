@@ -7,6 +7,10 @@ This project will continue to evolve with each version as new requirements are G
 
 Project Mentorship SQL Data Comparison Project Version 0:
 
+[Clink Here to view version 0](https://github.com/Bambi-Forest/SQL-Data-Comparison-Project/blob/main/AutomatedProjectV0.sql)
+
+[Clink Here to view version 0 to Execute with Stored procedure](https://github.com/Bambi-Forest/SQL-Data-Comparison-Project/blob/main/AutomatedProjectExecutionV0.sql)
+
 Your job, should you choose to accept it, is to create an 'app' totally within SQL that does the following things:
 
 1. Stores a pre and post version of the data you are comparing. 
